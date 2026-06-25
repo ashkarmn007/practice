@@ -1,2 +1,1 @@
-console.log("Anson is placed");
-console.log("abcd")
+console.log("anson is placed")
