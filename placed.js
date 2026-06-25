@@ -1,1 +1,1 @@
-console.log("Anson is been placed");
+console.log("Anson is placed");
