@@ -1,2 +1,2 @@
 console.log("Anson is placed");
-console.log()
+console.log("abcd")
