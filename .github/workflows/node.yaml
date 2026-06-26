@@ -13,5 +13,5 @@ jobs:
       - name: install dependancy
         run: npm install 
       - name: running file
-        run: npm intern.js
+        run: node intern.js
         
