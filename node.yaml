@@ -1,7 +1,7 @@
 name:Javascript 
 on:
   push:
-    branches:["mubashira","main"]
+    branches:["mubashira"]
 jobs:
   js:
     run-on:ubuntu-latest
