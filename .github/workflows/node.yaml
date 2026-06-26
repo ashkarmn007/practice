@@ -1,17 +1,17 @@
 name: Javascript 
 on:
   push:
-    branches:[mubashira]
+    branches: [mubashira]
 jobs:
   js:
-    runs-on:ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
-      -name: Checkout Repository
-       uses: actions/checkout@v4
-      -name: Setup Node.js
-       uses: actions/setup-node@v4
-      -name: install dependancy
-       run: npm install 
-      -name: running file
-       run: npm intern.js
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+      - name: install dependancy
+        run: npm install 
+      - name: running file
+        run: npm intern.js
         
